@@ -70,20 +70,72 @@ Open For: Web & Mobile Development
 
 # 📌 Featured Projects
 
-🟢 **ERP Website**  
-Enterprise-level resource planning system for HR, Finance, Inventory, and Sales.
+<table>
+<tr>
+<td width="50%">
 
-🟢 **Slack Attendance Bot**  
-Automated attendance tracking with Google Sheets integration.
+### 🏗 ERP Website
+Enterprise Resource Planning system integrating:
+✔ Finance  
+✔ HR  
+✔ Inventory  
+✔ Sales  
+✔Unified platform eliminating manual workflows.
 
-🟢 **Attendance Tracker App**  
-Google Auth + FCM Notifications + Admin Panel.
+</td>
 
-🟢 **Google Calendar To-Do App**  
-Task manager synced with Google Calendar.
+<td width="50%">
 
-🟢 **Animated Blog Website**  
-React + TypeScript + Tailwind + Framer Motion.
+### 📱 Slack Attendance Bot
+Node.js + Express powered automation:
+✔ Entry/Exit tracking  
+✔ Working hours calculation  
+✔ Lunch/Break management  
+✔ Google Sheets integration  
+✔ Daily summaries
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📲 Attendance Tracker App
+React Native app featuring:
+✔ Google Authentication  
+✔ FCM Notifications  
+✔ Admin Dashboard  
+✔ Attendance Reports  
+✔ Push Alerts
+
+</td>
+
+<td width="50%">
+
+### 📅 Google Calendar To-Do App
+Task manager with:
+✔ Calendar sync  
+✔ Task reminders  
+✔ Real-time updates  
+✔ Productivity tracking
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" colspan="2">
+
+### ✍ Blog Website
+Modern blog built with:
+✔ React  
+✔ TypeScript  
+✔ Tailwind CSS  
+✔ Framer Motion animations  
+✔Smooth and immersive reading experience.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -119,3 +171,6 @@ React + TypeScript + Tailwind + Framer Motion.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0F2027&height=120&section=footer"/>
+<h3 align="center">
+✨ Code • Build • Scale • Repeat ✨
+</h3>
