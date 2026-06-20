@@ -77,6 +77,9 @@ Attendance Tracker is a smart and efficient mobile application built with React 
 ### Google-Calender-Intregeted-To-Do-App-React-Native-
 A powerful To-Do List app with seamless Google Calendar integration. Built with React Native, it helps you manage tasks efficiently while keeping your schedule perfectly synced across platforms.
 
+### Blog-Website 
+A modern animated blog website built with React, TypeScript, and Tailwind CSS. Featuring smooth scroll animations, elegant design, and an immersive reading experience powered by Framer Motion
+
 
 ---
 
