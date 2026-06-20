@@ -45,9 +45,9 @@ Open For: Web & Mobile Development
 ---
 
 # 💻 Tech Stack
-
 <p align="center">
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js </p>
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" title="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" title="TypeScript"/>
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" title="React"/>
@@ -164,13 +164,10 @@ Modern blog built with:
 
 ---
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ThakurAyushRaj&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0F2027&height=120&section=footer"/>
 <h3 align="center">
 ✨ Code • Build • Scale • Repeat ✨
 </h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0F2027&height=120&section=footer"/>
+
