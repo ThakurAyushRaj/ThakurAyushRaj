@@ -1,8 +1,91 @@
-# Hi there, I'm Ayush Raj 👋
+<h1 align="center">Hi 👋, I'm Ayush Raj</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | React Native | Flutter</h3>
 
-I am a passionate **Full-Stack Software Engineer** focused on building clean, fast, and accessible **Web Applications** and **Mobile Applications**. I love automation and working with open-source systems.
-# 💻 Tech Stack & Skills:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=ThakurAyushRaj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ThakurAyushRaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Native+Developer;Flutter+Developer;AWS+Learner;Building+Scalable+Applications" />
+</p>
+
+---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🚀 About Me
+
+- 🔭 Currently building **Thekedar Hub**
+- 🌱 Learning **AWS & System Design**
+- 💻 Skilled in **MERN, MEAN, React Native, Flutter**
+- 📚 Pursuing **B.Tech**
+- 👯 Open for collaboration on **Web & Mobile Apps**
+- ⚡ Fun fact: I love building real-world scalable applications
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/ThakurAyushRaj"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,firebase,flutter,dart,aws,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThakurAyushRaj&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThakurAyushRaj&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurAyushRaj&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ThakurAyushRaj&theme=radical&row=1&column=7" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🏗 Thekedar Hub
+Urban Company-like platform connecting users with contractors.
+
+### 📱 Medical Prescription App
+Digital prescription management system.
+
+### 🛒 Inventory Management System
+Smart medicine stock handling system.
+
+---
+
+## 📊 Contribution Graph
+
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThakurAyushRaj&theme=react-dark)](https://github.com/ThakurAyushRaj)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThakurAyushRaj&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+✨ "Code. Build. Scale. Repeat." ✨
+</p>
