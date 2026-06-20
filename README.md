@@ -46,8 +46,6 @@ Open For: Web & Mobile Development
 
 # 💻 Tech Stack
 <p align="center">
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js </p>
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" title="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" title="TypeScript"/>
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" title="React"/>
