@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Ayush%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20|%20React%20Native%20|%20Flutter&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,25:203A43,50:2C5364,75:00C9FF,100:92FE9D&text=Ayush%20Raj&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20|%20React%20Native%20|%20Flutter&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ayush+Raj;Full+Stack+Developer;React+Native+Developer;Flutter+Developer;AWS+Learner;Building+Scalable+Applications" />
 
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Ayush+Raj;Full+Stack+Developer;React+Native+Developer;Flutter+Developer;AWS+Learner;Building+Scalable+Applications" />
-</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-d0e36b74-90b4-4c0f-bb2f-c4f2b1e90d2b.gif" width="100%">
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```yaml
 Name: Ayush Raj
 Role: Full Stack Developer
 Education: B.Tech
-Current Focus: CRM & EMR Development
+Current Focus: CRM & EMR
 Learning: AWS | System Design
 Skills: MERN | MEAN | React Native | Flutter
-Collaboration: Open for Web & Mobile Apps
+Open For: Web & Mobile Development
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/your-linkedin">
@@ -44,100 +44,70 @@ Collaboration: Open for Web & Mobile Apps
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,firebase,flutter,dart,aws,git,github" />
+
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" title="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" title="TypeScript"/>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" title="React"/>
+<img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react" title="React Native"/>
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" title="Node.js"/>
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" title="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" title="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" title="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" title="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase" title="Firebase"/>
+<img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter" title="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart" title="Dart"/>
+<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws" title="AWS"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" title="Git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" title="GitHub"/>
+
 </p>
 
 ---
 
 # 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+🟢 **ERP Website**  
+Enterprise-level resource planning system for HR, Finance, Inventory, and Sales.
 
-### 🏗 ERP Website
-Enterprise Resource Planning system integrating:
-✔ Finance  
-✔ HR  
-✔ Inventory  
-✔ Sales  
+🟢 **Slack Attendance Bot**  
+Automated attendance tracking with Google Sheets integration.
 
-Unified platform eliminating manual workflows.
+🟢 **Attendance Tracker App**  
+Google Auth + FCM Notifications + Admin Panel.
 
-</td>
+🟢 **Google Calendar To-Do App**  
+Task manager synced with Google Calendar.
 
-<td width="50%">
-
-### 📱 Slack Attendance Bot
-Node.js + Express powered automation:
-✔ Entry/Exit tracking  
-✔ Working hours calculation  
-✔ Lunch/Break management  
-✔ Google Sheets integration  
-✔ Daily summaries
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📲 Attendance Tracker App
-React Native app featuring:
-✔ Google Authentication  
-✔ FCM Notifications  
-✔ Admin Dashboard  
-✔ Attendance Reports  
-✔ Push Alerts
-
-</td>
-
-<td width="50%">
-
-### 📅 Google Calendar To-Do App
-Task manager with:
-✔ Calendar sync  
-✔ Task reminders  
-✔ Real-time updates  
-✔ Productivity tracking
-
-</td>
-</tr>
-
-<tr>
-<td width="100%" colspan="2">
-
-### ✍ Blog Website
-Modern blog built with:
-✔ React  
-✔ TypeScript  
-✔ Tailwind CSS  
-✔ Framer Motion animations  
-
-Smooth and immersive reading experience.
-
-</td>
-</tr>
-</table>
+🟢 **Animated Blog Website**  
+React + TypeScript + Tailwind + Framer Motion.
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThakurAyushRaj&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThakurAyushRaj&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurAyushRaj&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurAyushRaj&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThakurAyushRaj&theme=react-dark&hide_border=true"/>
@@ -151,8 +121,4 @@ Smooth and immersive reading experience.
 
 </div>
 
----
-
-<h3 align="center">
-✨ Code • Build • Scale • Repeat ✨
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0F2027&height=120&section=footer"/>
