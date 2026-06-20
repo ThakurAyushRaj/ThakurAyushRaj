@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Thekedar Hub**
+- 🔭 Currently building **CRM & EMR**
 - 🌱 Learning **AWS & System Design**
 - 💻 Skilled in **MERN, MEAN, React Native, Flutter**
 - 📚 Pursuing **B.Tech**
@@ -65,14 +65,18 @@
 
 ## 📌 Featured Projects
 
-### 🏗 Thekedar Hub
-Urban Company-like platform connecting users with contractors.
+### 🏗 ERP-Website
+ERP brings together Finance, Human Resources, Inventory Control, and Sales Operations into a unified, intelligent platform. Eliminate data silos, manual processes, and scattered spreadsheets.
 
-### 📱 Medical Prescription App
-Digital prescription management system.
+### 📱 SLACK-ATTENDANCE
+A Slack attendance and time tracking bot built with Node.js and Express. Supports entry/exit tracking, working hours calculation, lunch and break management, Google Sheets integration, and automate the daily summery of the employee
 
-### 🛒 Inventory Management System
-Smart medicine stock handling system.
+### 🛒 Google-Auth_FCM-Notification_Admin-Pannel_Attendence-Tracker_App-React-Native-
+Attendance Tracker is a smart and efficient mobile application built with React Native. It features secure Google login, real-time attendance marking, and powerful FCM push notifications. Includes a dedicated Admin Panel for managing attendance records, generating reports, and sending notifications
+
+### Google-Calender-Intregeted-To-Do-App-React-Native-
+A powerful To-Do List app with seamless Google Calendar integration. Built with React Native, it helps you manage tasks efficiently while keeping your schedule perfectly synced across platforms.
+
 
 ---
 
