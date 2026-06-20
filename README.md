@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,25:203A43,50:2C5364,75:00C9FF,100:92FE9D&text=Ayush%20Raj&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20|%20React%20Native%20|%20Flutter&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ayush+Raj;Full+Stack+Developer;React+Native+Developer;Flutter+Developer;AWS+Learner;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Web+Developer;React+Native+Developer;AWS+Learner;Building+Scalable+Applications;Flutter+Developer" />
 
 </div>
 
